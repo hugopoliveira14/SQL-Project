@@ -1,9 +1,6 @@
 
 /*==================================================================================
 Curso: MYSQL
-Instrutor: Sandro Servino
-https://www.linkedin.com/in/sandroservino/?originalSubdomain=pt
-https://www.udemy.com/user/sandro-servino-3/
 
  STORED PROCEDURE (SP)                                         
 
